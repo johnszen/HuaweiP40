@@ -62,6 +62,22 @@ On https://aws.amazon.com/iam/features/mfa/, DUO Mobile can used used and it see
 DONE
 
 
+## Email
+
+I use couple of gmail accounts. I was expecting I was not able to use them. I was pleasantly surprised that it is really easy to connect to gmail.
+- Open Email (I believe this is Huawei Email app)
+- Add account -> select Gmail -> enter my credential
+- I did the same for all my other gmail accounts
+
+## Calendar
+
+Calendar seems to automatically sync all the connected gmail accounts.
+
+
+
+
+
+
 
 
 
