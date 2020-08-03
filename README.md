@@ -32,8 +32,9 @@ Then, Phone Clone successfully transferred.
 
 ## 2FA: Use DUO Mobile to replace Authy
 
-I use Authy for 2FA on AWS.
+I use Authy for 2FA on AWS and github.
 
+### AWS
 On https://aws.amazon.com/iam/features/mfa/, DUO Mobile can used used and it seems to works on P10.
 - Remove Authy by
   - Login to AWS
@@ -42,6 +43,7 @@ On https://aws.amazon.com/iam/features/mfa/, DUO Mobile can used used and it see
   - MFA Manage -> Add, scan, enter first code, then second code.
   DONE
   
+### github
 
 
 
