@@ -23,6 +23,17 @@ Additionally, tried:
 - Authy - not working
 - ANZ gomoney - not working
 
+## Chinese Keyboard: Microsoft Swiftkey
+
+I use Microsoft Swiftkey for Chinese character entry and continual English word entry.
+
+Continual English word entry is setup after Phone Clone.
+
+For Chinese character entry, I only need to:
+- Open Microsoft Swiftkey
+- Add Chinese Simplified
+
+
 ## WeChat
 
 Tried to use Phone Clone to transfer WeChat alone, the message says it needs 4.3 GB of space.
