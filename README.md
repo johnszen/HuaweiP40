@@ -30,7 +30,7 @@ Tried to use Phone Clone to transfer WeChat alone, the message says it needs 4.3
 
 Then, Phone Clone successfully transferred.
 
-## Authy
+## 2FA: Use DUO Mobile to replace Authy
 
 I use Authy for 2FA on AWS.
 
