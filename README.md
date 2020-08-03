@@ -74,7 +74,9 @@ I use couple of gmail accounts. I was expecting I was not able to use them. I wa
 Calendar seems to automatically sync all the connected gmail accounts.
 
 
+## Slack
 
+My company use slack. Open the app, sign in wioth Google works fine.
 
 
 
