@@ -56,6 +56,10 @@ On https://aws.amazon.com/iam/features/mfa/, DUO Mobile can used used and it see
   
 ### github
 
+- Go to https://github.com/settings/security, Authenticator App - Edit
+- Use DUO MOBILE to scan the barcode appeared
+- Enter the code, Enable
+DONE
 
 
 
