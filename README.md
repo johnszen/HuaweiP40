@@ -4,6 +4,10 @@ I bought Huawei P40.
 
 My main reason is that I don't want to get lock in to Google. I want to only use apps that can run on my old P10 and new P40 (with Google GMS ban on).
 
+After 2 days of using, I am not blocked in my work or my daily life.
+
+The User Experience (UX) on P40 is quite pleasant.
+
 ## Huawei Phone Clone
 After initiate setup, start Huawei Phone Clone at both P10 and P40.
 
@@ -76,10 +80,12 @@ Calendar seems to automatically sync all the connected gmail accounts.
 
 ## Slack
 
-My company use slack. Open the app, sign in wioth Google works fine.
+My company use slack. Open the app, sign in with Google works fine.
 
+## Banking app
 
+### ANZ GoMoney
 
-
-
-
+Tried on first day, not able to login. On second day, it suddenly worked.
+- Open ANZ GoMoney
+- Enter user-id and password -> enter verification code (sent through SMS)
