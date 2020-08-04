@@ -89,3 +89,5 @@ My company use slack. Open the app, sign in with Google works fine.
 Tried on first day, not able to login. On second day, it suddenly worked.
 - Open ANZ GoMoney
 - Enter user-id and password -> enter verification code (sent through SMS)
+
+## 2 degree app
