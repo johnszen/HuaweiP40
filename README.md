@@ -10,6 +10,8 @@ After 2 days of using, I am not blocked in my work or my daily life.
 
 The User Experience (UX) on P40 is quite pleasant.
 
+Its camera takes stunning picture. I took a picture of my garden in pitch darkness without flash, it came up with a stunning clear picture! 
+
 ### 8 days - 1 week
 A colleague noted Google Maps icon on my phone. It must have being copied from my old phone. I tried it, it works but can not login. I was worried when I get Google Maps Timeline email from Google that Google record my travel in such a great details. With this Huawei phone, I am happy that Google has one less avenuie to track me.
 
