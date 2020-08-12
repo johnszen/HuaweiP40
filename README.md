@@ -4,9 +4,18 @@ I bought Huawei P40.
 
 My main reason is that I don't want to get lock in to Google. I want to only use apps that can run on my old P10 and new P40 (with Google GMS ban on).
 
+## User Experience Log
+### 2 days
 After 2 days of using, I am not blocked in my work or my daily life.
 
 The User Experience (UX) on P40 is quite pleasant.
+
+### 8 days - 1 week
+A colleague noted Google Maps icon on my phone. It must have being copied from my old phone. I tried it, it works but can not login. I was worried when I get Google Maps Timeline email from Google that Google record my travel in such a great details. With this Huawei phone, I am happy that Google has one less avenuie to track me.
+
+I just noticed that when I turn on the phone from dark screen to screen lighted up, it recognizes my face and automatically unlock it.
+
+After one week of using, I am not deprived of any functionalities.
 
 ## Huawei Phone Clone
 After initiate setup, start Huawei Phone Clone at both P10 and P40.
@@ -91,3 +100,6 @@ Tried on first day, not able to login. On second day, it suddenly worked.
 - Enter user-id and password -> enter verification code (sent through SMS)
 
 ## 2 degree app
+
+2 degree is a New Zealand mobile telecommunications company. It gives 1 hour free data connection daily via its custom **Data Clock** app. When the app starts up, a pop up saying "Data Clock won't run without Google Play service ...". Beside the warning message, the app runs fine and I can consume free data connection.
+
